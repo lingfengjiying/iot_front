@@ -1,0 +1,396 @@
+{
+    "device_list": [
+        {
+            "device_name": "常乐街路灯1号",
+            "device_id": "d155522348",
+            "device_depart": "长乐小区",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯2号",
+            "device_id": "d5255234248",
+            "device_depart": "长乐小区",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯1号",
+            "device_id": "d142452234548",
+            "device_depart": "长乐小区",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯1号",
+            "device_id": "d12345255648",
+            "device_depart": "长乐小区",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯1号",
+            "device_id": "d1562342348",
+            "device_depart": "长乐小区",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        }
+    ],
+    "device_data_list": [
+        {
+            "device_name": "常乐街路灯1号",
+            "device_id": "d4851515",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯2号",
+            "device_id": "d41561615",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯3号",
+            "device_id": "d1546161",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯4号",
+            "device_id": "s4515156",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯5号",
+            "device_id": "f16516516",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯6号",
+            "device_id": "g1651651",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "token": ""
+        }
+    ],
+    "device_catch_list": [
+        {
+            "device_name": "常乐街路灯1号",
+            "device_id": "d4851515",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "catch_statu": "异常",
+            "catch_reson": "无法开启",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯2号",
+            "device_id": "d41561615",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "catch_statu": "异常",
+            "catch_reson": "无法开启",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯3号",
+            "device_id": "d1546161",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "catch_statu": "异常",
+            "catch_reson": "无法开启",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯4号",
+            "device_id": "s4515156",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "catch_statu": "异常",
+            "catch_reson": "无法开启",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯5号",
+            "device_id": "f16516516",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "catch_statu": "异常",
+            "catch_reson": "无法开启",
+            "token": ""
+        },
+        {
+            "device_name": "常乐街路灯6号",
+            "device_id": "g1651651",
+            "device_depart": "常乐小区",
+            "electric": "5",
+            "voltage": "220",
+            "power": "50",
+            "consum": "200",
+            "editTime": "1585915683",
+            "statu": "1",
+            "catch_statu": "异常",
+            "catch_reson": "无法开启",
+            "token": ""
+        }
+    ],
+    "user_list": [
+        {
+            "user_name": "李磊",
+            "user_id": "a125486",
+            "user_depart": "常乐小区街道办事处",
+            "user_sex": "男",
+            "user_tel": "13548596245",
+            "editTime": "1585915683"
+        },
+        {
+            "user_name": "李晶",
+            "user_id": "a11455486",
+            "user_depart": "常乐小区街道办事处",
+            "user_sex": "女",
+            "user_tel": "13548596245",
+            "editTime": "13548491615"
+        },
+        {
+            "user_name": "刘梅",
+            "user_id": "sd1g65ds1",
+            "user_depart": "常乐小区街道办事处",
+            "user_sex": "女",
+            "user_tel": "13548596245",
+            "editTime": "18459526485"
+        },
+        {
+            "user_name": "张伟",
+            "user_id": "sdg1651616",
+            "user_depart": "常乐小区街道办事处",
+            "user_sex": "男",
+            "user_tel": "13548596245",
+            "editTime": "15623489545"
+        },
+        {
+            "user_name": "张红",
+            "user_id": "sd1g651616",
+            "user_depart": "常乐小区街道办事处",
+            "user_sex": "女",
+            "user_tel": "15926845214",
+            "editTime": "1585915683"
+        },
+        {
+            "user_name": "刘楠楠",
+            "user_id": "s51651616",
+            "user_depart": "常乐小区街道办事处",
+            "user_sex": "男",
+            "user_tel": "18459625485",
+            "editTime": "1585915683"
+        },
+        {
+            "user_name": "张强",
+            "user_id": "s11891841",
+            "user_depart": "常乐小区街道办事处",
+            "user_sex": "男",
+            "user_tel": "15648521596",
+            "editTime": "1585915683"
+        },
+        {
+            "user_name": "黄志强",
+            "user_id": "g1561615",
+            "user_depart": "常乐小区街道办事处",
+            "user_sex": "男",
+            "user_tel": "15784126548",
+            "editTime": "1585915683"
+        }
+    ],
+    "depart_list": [
+        {
+            "depart_name": "常乐村街道办事处",
+            "depart_id": "1",
+            "depart_code": "c51481",
+            "update_user_name": "李磊",
+            "update_user_id": "c5646546",
+            "editTime": "1585915683"
+        },
+        {
+            "depart_name": "天华路街道办事处",
+            "depart_id": "2",
+            "depart_code": "c2845",
+            "update_user_name": "陈光",
+            "update_user_id": "d1651561",
+            "editTime": "1585915683"
+        },
+        {
+            "depart_name": "中和区办事处",
+            "depart_id": "3",
+            "depart_code": "c2513",
+            "update_user_name": "刘祥",
+            "update_user_id": "f165161",
+            "editTime": "1585915683"
+        },
+        {
+            "depart_name": "金堂县县委下属办事处",
+            "depart_id": "4",
+            "depart_code": "c4125",
+            "update_user_name": "吴双",
+            "update_user_id": "a5151546",
+            "editTime": "1585915683"
+        },
+        {
+            "depart_name": "双流区区域办事中心",
+            "depart_id": "5",
+            "depart_code": "c5322",
+            "update_user_name": "李世忠",
+            "update_user_id": "a5156151",
+            "editTime": "1585915683"
+        },
+        {
+            "depart_name": "龙泉驿区域办事处",
+            "depart_id": "6",
+            "depart_code": "c6512",
+            "update_user_name": "张强",
+            "update_user_id": "a185151",
+            "editTime": "1585915683"
+        }
+    ],
+    "policy_list": [
+        {
+            "policy_name": "声控",
+            "policy_code": "v1",
+            "policy_id": "1",
+            "policy_descrip": "根据传感器接收到周围声音来控制灯光",
+            "update_user_name": "李磊",
+            "update_user_id": "c5646546",
+            "editTime": "1585915683"
+        },
+        {
+            "policy_name": "光控",
+            "policy_code": "v2",
+            "policy_id": "2",
+            "policy_descrip": "根据周围光照强度调整灯光",
+            "update_user_name": "张强",
+            "update_user_id": "s5415641",
+            "editTime": "1585915683"
+        },
+        {
+            "policy_name": "定时开关",
+            "policy_code": "v3",
+            "policy_id": "3",
+            "policy_descrip": "定时开启灯光",
+            "update_user_name": "刘明",
+            "update_user_id": "s1561616",
+            "editTime": "1585915683"
+        },
+        {
+            "policy_name": "复合控制",
+            "policy_code": "v4",
+            "policy_id": "4",
+            "policy_descrip": "根据周围光照，声音，和时间等综合因素控制开关",
+            "update_user_name": "李智",
+            "update_user_id": "g4165161",
+            "editTime": "1585915683"
+        }
+    ],
+    "device_policy_list": [
+        {
+            "device_name": "路灯1",
+            "device_id": "ss5151",
+            "policy_name": "光控",
+            "policy_code": "v1",
+            "update_user_name": "李智",
+            "update_user_id": "g4d1g515",
+            "editTime": "1585915683"
+        },
+        {
+            "device_name": "路灯2",
+            "device_id": "s51515",
+            "policy_name": "声控",
+            "policy_code": "v2",
+            "update_user_name": "刘明",
+            "update_user_id": "sdg15151",
+            "editTime": "1585915683"
+        },
+        {
+            "device_name": "路灯3",
+            "device_id": "s1515",
+            "policy_name": "定时开光",
+            "policy_code": "v3",
+            "update_user_name": "张强",
+            "update_user_id": "hf19h181",
+            "editTime": "1585915683"
+        },
+        {
+            "device_name": "路灯4",
+            "device_id": "g41515",
+            "policy_name": "复合控制",
+            "policy_code": "v4",
+            "update_user_name": "李智",
+            "update_user_id": "h19811",
+            "editTime": "1585915683"
+        }
+    ]
+}
